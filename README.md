@@ -1,1 +1,1 @@
-# cpp-primier-5th-pracitce
+# cpp-primer-5th-pracitce
